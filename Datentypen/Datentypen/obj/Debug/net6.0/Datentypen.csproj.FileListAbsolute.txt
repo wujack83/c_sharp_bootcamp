@@ -1,0 +1,15 @@
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\bin\Debug\net6.0\Datentypen.exe
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\bin\Debug\net6.0\Datentypen.deps.json
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\bin\Debug\net6.0\Datentypen.runtimeconfig.json
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\bin\Debug\net6.0\Datentypen.dll
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\bin\Debug\net6.0\Datentypen.pdb
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\Datentypen.csproj.AssemblyReference.cache
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\Datentypen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\Datentypen.AssemblyInfoInputs.cache
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\Datentypen.AssemblyInfo.cs
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\Datentypen.csproj.CoreCompileInputs.cache
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\Datentypen.dll
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\refint\Datentypen.dll
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\Datentypen.pdb
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\Datentypen.genruntimeconfig.cache
+C:\Users\rseewald\source\repos\Datentypen\Datentypen\obj\Debug\net6.0\ref\Datentypen.dll
