@@ -1,0 +1,16 @@
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\bin\Debug\net5.0\Challange_1.exe
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\bin\Debug\net5.0\Challange_1.deps.json
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\bin\Debug\net5.0\Challange_1.runtimeconfig.json
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\bin\Debug\net5.0\Challange_1.runtimeconfig.dev.json
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\bin\Debug\net5.0\Challange_1.dll
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\bin\Debug\net5.0\Challange_1.pdb
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\Challange_1.csproj.AssemblyReference.cache
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\Challange_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\Challange_1.AssemblyInfoInputs.cache
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\Challange_1.AssemblyInfo.cs
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\Challange_1.csproj.CoreCompileInputs.cache
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\Challange_1.dll
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\refint\Challange_1.dll
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\Challange_1.pdb
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\Challange_1.genruntimeconfig.cache
+C:\Users\rseewald\source\repos\Challange_1\Challange_1\obj\Debug\net5.0\ref\Challange_1.dll
